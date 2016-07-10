@@ -1,0 +1,61 @@
+#main-ct{
+  background-image: url(../images/bg1.jpg);
+  width:100%;
+
+  padding:0px;
+  margin:0px;
+}
+p{
+  color: silver;
+  font-size: 16px;
+  background-color: #232426;
+  outline: silver double thick;
+  margin:15px;
+  padding: 5px;
+}
+h1{
+  color: silver;
+background-color: #232426;
+outline: silver solid thick;
+margin:15px;
+padding: 5px;
+}
+iframe {
+  margin:20px;
+  padding :10px;
+  border:5px solid silver;
+  border-radius: 10px;
+}
+#members{
+  background-image: url(../images/piano.jpg);
+  border: 5px solid #5D646A;
+  border-right-width: 0px;
+  border-left-width: 0px;
+}
+#nv{
+  border:5px solid silver;
+  border-radius: 10px;
+  width: 100%;
+}
+.tn{
+    border:5px solid silver;
+    border-radius: 10px;
+    margin:20px;
+}
+img{
+
+  margin:20px;
+  border:5px solid silver;
+}
+a{
+  border:5px solid #5D646A;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+
+}
+footer{
+  background-color:#232426;
+  margin: 0px;
+  padding: 0px;
+}
