@@ -1,3 +1,16 @@
+@font-face {
+  font-family: 'Blok';
+  src : url('../fonts/Blok.ttf')  format('truetype'),
+}
+@font-face {
+  font-family: 'Rock';
+  src : url('../fonts/f2.ttf')  format('truetype'),
+}
+#bg{
+  background-color: #232426;
+  border: 2px solid silver;
+  border-radius: 5px;
+}
 #main-ct{
   background-image: url(../images/bg1.jpg);
   width:100%;
@@ -5,18 +18,21 @@
   padding:0px;
   margin:0px;
 }
+a{
+  font-family: Blok;
+}
 p{
+  font-family: Rock;
   color: silver;
   font-size: 16px;
-  background-color: #232426;
-  outline: silver double thick;
+
   margin:15px;
   padding: 5px;
 }
 h1{
+  font-family: Blok;
   color: silver;
-background-color: #232426;
-outline: silver solid thick;
+
 margin:15px;
 padding: 5px;
 }
